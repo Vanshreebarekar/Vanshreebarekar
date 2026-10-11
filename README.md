@@ -5,8 +5,9 @@
 # 🚀 About Me
 ## Hi, I'm Vanshree Barekar..! 👋
 
-🧠 **Aspiring Data Scientist** | Currently diving deep into the world of Artificial Intelligence.
-🎓 **Student** at St. Vincent Pallotti College of Engineering & Technology, Nagpur.
+🧠 **AI/ML & Data Science Engineer** | Currently diving deep into the world of Artificial Intelligence.
+🛠️**Tech Stack**: Python, PyTorch, TensorFlow, LangChain, Hugging Face, Scikit-learn, Streamlit.
+🎓 **Final-Year IIoT Student** at St. Vincent Pallotti College of Engineering & Technology, Nagpur.
 ✈️ **NCC Air Wing Cadet** | Bringing discipline, leadership, and a "Sky is the Limit" mindset to my code.
 
 ---
